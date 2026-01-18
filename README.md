@@ -77,7 +77,7 @@ The ESP32 acts as a **local WiFi access point**, hosting a web dashboard that sh
 ---
 
 ## 👤 Author
-**Zara John**  
+**Jency JP**  
 Electronics & Communication Engineering  
 IoT | Embedded Systems | Web-based Monitoring
 
