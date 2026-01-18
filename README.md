@@ -56,3 +56,28 @@ The ESP32 acts as a **local WiFi access point**, hosting a web dashboard that sh
 ---
 
 ## 📂 Project Structure
+---
+
+## 🧪 Applications
+- Smart homes
+- Hostels
+- Industrial safety monitoring
+- Water tank monitoring
+- Energy-efficient automation systems
+
+---
+
+## 🎯 Future Enhancements
+- Cloud integration
+- Mobile app support
+- User authentication
+- Remote control functionality
+- Data logging and analytics
+
+---
+
+## 👤 Author
+**Zara John**  
+Electronics & Communication Engineering  
+IoT | Embedded Systems | Web-based Monitoring
+
